@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*All the needed variables*/
+:root {
+ 
+}
+
+/*end of root*/
+
+/*start of global styles*/
